@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Table-and-Chart/static/css/main.c765a917.css",
+    "main.js": "/Table-and-Chart/static/js/main.d670bb71.js",
+    "static/js/787.0488d090.chunk.js": "/Table-and-Chart/static/js/787.0488d090.chunk.js",
+    "static/media/logo.svg": "/Table-and-Chart/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Table-and-Chart/index.html",
+    "main.c765a917.css.map": "/Table-and-Chart/static/css/main.c765a917.css.map",
+    "main.d670bb71.js.map": "/Table-and-Chart/static/js/main.d670bb71.js.map",
+    "787.0488d090.chunk.js.map": "/Table-and-Chart/static/js/787.0488d090.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c765a917.css",
+    "static/js/main.d670bb71.js"
+  ]
+}
