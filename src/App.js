@@ -9,7 +9,7 @@ function App() {
     <div className="App">
      <div className='box'>
       <p>Name: Manas Mukherjee</p>
-      <p>Email: mukherjee18m@gmil.com</p>
+      <p>Email: mukherjee18m@gmail.com</p>
       <p>Contact-Number: 9123053121</p>
      </div>
       <Tab/>
